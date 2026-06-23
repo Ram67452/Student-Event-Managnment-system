@@ -1,0 +1,15 @@
+# Visual Studio / .NET
+[Oo]bj/
+[Bb]in/
+.vs/
+*.user
+*.suo
+*.db
+*.sqlite3
+
+# Frontend / JS
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
